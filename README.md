@@ -176,9 +176,6 @@ pip install streamlit plotly
 ## 性能指标
 
 - **映射构建**：约 10-15 分钟（一次性）
-- **子图提取**：
-  - diagnoses_icd：~8 小时（8 workers）
-  - prescriptions_atc：~40 小时（8 workers）
 - **输出大小**：
   - diagnoses_icd：~1.4 GB
   - prescriptions_atc：~6.4 GB
